@@ -1,7 +1,7 @@
 # Git_course
-
+#### [Link Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 ### Learn git 
-### [basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ## Project Notes
 ## Videos 1 to 4 
 	git clone repo_like get repo from remote to local 
@@ -16,5 +16,6 @@
 	git branch
 	git remote
 	git remote -v
-	git push origin main
+	git push remote_name branch_name
+	EX: git push origin main
    
